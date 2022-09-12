@@ -36,7 +36,7 @@ Here we are giving war package format
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.19.219:8081/repository/CloudGen-Release/</url>
+            <url>http://192.168.241.146:8081/repository/CloudGen-Release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
